@@ -15,7 +15,7 @@
     <description>Capstone Project FPTU</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
 
     <dependencies>
@@ -78,8 +78,8 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 
     <configuration>
-        <source>13</source>
-        <target>13</target>
+        <source>8</source>
+        <target>8</target>
     </configuration>
             </plugin>
         </plugins>
